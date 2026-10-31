@@ -1,6 +1,6 @@
 {
-  "version": "16.8",
-  "notes": "1. 自更新加强：校验下载、重试覆盖、清理多余 AMZ*.exe、失败提示\n2. 更新检查改走 GitHub raw（无缓存，改完立刻生效）\n3. 建窗口失败显示完整原因\n4. 代理池支持 host:port 两段格式",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.8/AMZ.exe",
+  "version": "16.9",
+  "notes": "1. 有头模式窗口强制 1920x1040 并最大化（修复窗口过小不能放大）\n2. 代理池取不到时日志显示每条代理的具体失败原因\n3. 代理池支持 host:port 两段格式 + socks5/http 双协议",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.9/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
