@@ -1,6 +1,6 @@
 {
   "version": "16.2",
   "notes": "1. 补号支持清缓存重注册\n2. 接口鉴权容错\n3. 支持自动更新",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.2/AMZ注册器.exe",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.2/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
