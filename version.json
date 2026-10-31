@@ -1,6 +1,6 @@
 {
-  "version": "16.6",
-  "notes": "1. 修复代理类型误选「提取代理」导致取不到代理\n2. 建窗口失败时显示完整原因\n3. 代理池支持 host:port 两段格式",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.6/AMZ.exe",
+  "version": "16.7",
+  "notes": "1. 建窗口失败时显示完整原因（分组不存在/代理无效等）\n2. 移除「提取代理」选项，避免误选后取不到代理\n3. 代理池支持 host:port 两段格式\n4. 自动更新后清理重复 exe",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.7/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
