@@ -1,6 +1,6 @@
 {
-  "version": "16.4",
-  "notes": "1. 修复打包后找不到号池/代理池（显示 0/0 的问题）\n2. 补号跑完自动关闭环境\n3. 验证码页自动刷新+重发+填码\n4. 地址前强制切日文\n5. 2FA 自动展开条码抓密钥\n6. 备注同步到浏览器\n7. 客户包不带号池与代理池（自己填）",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.4/AMZ.exe",
+  "version": "16.5",
+  "notes": "1. 代理池支持 host:port 两段格式（无账号密码）\n2. 取代理时 socks5 与 http 双协议自动探测\n3. 自动更新后清理重复 exe，不再出现两个 AMZ注册器\n4. 修复打包后号池/代理池显示 0/0",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.5/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
