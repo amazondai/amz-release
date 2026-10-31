@@ -1,6 +1,6 @@
 {
-  "version": "16.5",
-  "notes": "1. 代理池支持 host:port 两段格式（无账号密码）\n2. 取代理时 socks5 与 http 双协议自动探测\n3. 自动更新后清理重复 exe，不再出现两个 AMZ注册器\n4. 修复打包后号池/代理池显示 0/0",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.5/AMZ.exe",
+  "version": "16.6",
+  "notes": "1. 修复代理类型误选「提取代理」导致取不到代理\n2. 建窗口失败时显示完整原因\n3. 代理池支持 host:port 两段格式",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.6/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
