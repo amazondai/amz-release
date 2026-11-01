@@ -1,6 +1,6 @@
 {
-  "version": "16.15",
-  "notes": "1. 补号所需模块全部打进 exe（台账/补跑/重注册），直接更新即可用\n2. 代理池支持 UTF-16 与全角字符\n3. 注册沿用固定密码\n4. 台账 2FA 需密钥才算完成\n5. 账号记录 5 秒自动刷新",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.15/AMZ.exe",
+  "version": "16.16",
+  "notes": "1. 2FA 全链路改为实测控件（開始する→手风琴→展开密钥→TOTP→最终确认→有効判定）\n2. 人机验证改为真实点击 label + Continue shopping，并校验 aria/checked\n3. 切日文改为点「日本語」链接，并校验页面真的变日文\n4. 绑地址带重试；已有地址直接算成功，不再重复添加\n5. 台账唯一入口，2FA 需密钥才算完成\n6. 代理池支持 UTF-16/全角；账号记录 5 秒自动刷新",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.16/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
