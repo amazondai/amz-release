@@ -1,6 +1,6 @@
 {
-  "version": "16.18",
-  "notes": "1. 检查点极速通过（0.2s，失败自动重试）\n2. 注册入口走账户菜单，不再依赖裸 /ap/register\n3. 验证码无码自动重发，兼容 #input-box-otp\n4. 切日文：勾 ja_JP + 点保存 + 双校验\n5. 地址：Line2 只放丁目番地，市区町村不再被覆盖；删地址有界\n6. 2FA：账户卡片入口 → オンにする → 開始する → 等二维码 → TOTP → 最终确认\n7. 密钥抓到即落盘；台账全字段 + 备注自动同步 + 可真降级\n8. 流程结束自动关闭环境\n9. 新增 核对台账.py（以亚马逊实况核对）",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.18/AMZ.exe",
+  "version": "16.19",
+  "notes": "新版本",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.19/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
