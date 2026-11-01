@@ -1,6 +1,6 @@
 {
-  "version": "16.10",
-  "notes": "1. 浏览器窗口跟随各台电脑的屏幕（只最大化，不再强制 1920x1040）\n2. 代理池/号池文件兼容记事本保存的 GBK 与 BOM 编码\n3. 代理取不到时日志显示每条代理的具体失败原因",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.10/AMZ.exe",
+  "version": "16.11",
+  "notes": "1. 代理池改为一环境一 IP、用过的永不再用\n2. 顶栏显示代理池本轮已用数量\n3. 浏览器窗口跟随各机屏幕",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.11/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
