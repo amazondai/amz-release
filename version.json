@@ -1,6 +1,6 @@
 {
-  "version": "16.16",
-  "notes": "1. 2FA 全链路改为实测控件（開始する→手风琴→展开密钥→TOTP→最终确认→有効判定）\n2. 人机验证改为真实点击 label + Continue shopping，并校验 aria/checked\n3. 切日文改为点「日本語」链接，并校验页面真的变日文\n4. 绑地址带重试；已有地址直接算成功，不再重复添加\n5. 台账唯一入口，2FA 需密钥才算完成\n6. 代理池支持 UTF-16/全角；账号记录 5 秒自动刷新",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.16/AMZ.exe",
+  "version": "16.17",
+  "notes": "1. 新增「同步台账」按钮：按所选分组同步比特窗口，只增不删\n2. 台账新增「环境」列；「只看有环境」默认开启，已删环境自动隐藏\n3. 台账写入后自动同步比特备注\n4. 2FA 全链路实测控件；无密钥不算完成\n5. 人机验证真实点击 label；切日文校验；绑地址带重试\n6. 代理池 UTF-16/全角兼容；表格按序号升序",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.17/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
