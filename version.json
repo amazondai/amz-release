@@ -1,6 +1,6 @@
 {
-  "version": "16.12",
-  "notes": "1. 自动更新改为静默执行（不再弹黑框、不再乱码）\n2. 更新后自动清理多余的 AMZ*.exe\n3. 2FA 入口按实测：2段階認証行 → オンにする\n4. 地址统计改为数「削除」链接，已有地址自动跳过\n5. 人机验证：打钩校验 + #continueButton",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.12/AMZ.exe",
+  "version": "16.13",
+  "notes": "1. 台账改为唯一入口（台账.py）：只按 注册/地址/2FA 三标记判定\n2. 全表已重算，消除\"备注写完成但其实缺步骤\"的矛盾\n3. 2FA 入口按实测：2段階認証行 → オンにする(a-autoid-5)\n4. 补号/补地址/2FA 三条路径统一写台账\n5. 自动更新静默执行，不再弹黑框与乱码",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.13/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
