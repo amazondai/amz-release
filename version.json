@@ -1,6 +1,6 @@
 {
-  "version": "16.14",
-  "notes": "1. 代理池读取支持 UTF-16（记事本\"Unicode\"另存的文件也能读）\n2. 代理行自动清理全角冒号/引号/空格\n3. 注册沿用固定密码，不再每次重新生成\n4. 台账判定：2FA 有密钥才算完成；密钥随流程自动记录\n5. 账号记录表格 5 秒自动刷新",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.14/AMZ.exe",
+  "version": "16.15",
+  "notes": "1. 补号所需模块全部打进 exe（台账/补跑/重注册），直接更新即可用\n2. 代理池支持 UTF-16 与全角字符\n3. 注册沿用固定密码\n4. 台账 2FA 需密钥才算完成\n5. 账号记录 5 秒自动刷新",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.15/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
