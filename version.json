@@ -1,6 +1,6 @@
 {
-  "version": "16.13",
-  "notes": "1. 台账改为唯一入口（台账.py）：只按 注册/地址/2FA 三标记判定\n2. 全表已重算，消除\"备注写完成但其实缺步骤\"的矛盾\n3. 2FA 入口按实测：2段階認証行 → オンにする(a-autoid-5)\n4. 补号/补地址/2FA 三条路径统一写台账\n5. 自动更新静默执行，不再弹黑框与乱码",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.13/AMZ.exe",
+  "version": "16.14",
+  "notes": "1. 代理池读取支持 UTF-16（记事本\"Unicode\"另存的文件也能读）\n2. 代理行自动清理全角冒号/引号/空格\n3. 注册沿用固定密码，不再每次重新生成\n4. 台账判定：2FA 有密钥才算完成；密钥随流程自动记录\n5. 账号记录表格 5 秒自动刷新",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.14/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
