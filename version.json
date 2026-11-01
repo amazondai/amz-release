@@ -1,6 +1,6 @@
 {
-  "version": "16.11",
-  "notes": "1. 代理池改为一环境一 IP、用过的永不再用\n2. 顶栏显示代理池本轮已用数量\n3. 浏览器窗口跟随各机屏幕",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.11/AMZ.exe",
+  "version": "16.12",
+  "notes": "1. 自动更新改为静默执行（不再弹黑框、不再乱码）\n2. 更新后自动清理多余的 AMZ*.exe\n3. 2FA 入口按实测：2段階認証行 → オンにする\n4. 地址统计改为数「削除」链接，已有地址自动跳过\n5. 人机验证：打钩校验 + #continueButton",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.12/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
