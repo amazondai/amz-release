@@ -1,7 +1,7 @@
 {
-  "version": "16.22",
-  "notes": "稳定性优化与体验改进。",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.22/AMZ.exe",
-  "zip": "https://github.com/amazondai/amz-release/releases/download/v16.22/AMZ_customer_v16.22.zip",
-  "file": "AMZ注册器.exe"
+  "version": "16.24",
+  "notes": "新版本",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.24/AMZ.exe",
+  "file": "AMZ注册器.exe",
+  "zip": "https://github.com/amz-release/releases/download/v16.24/AMZ_customer_v16.24.zip"
 }
