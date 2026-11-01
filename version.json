@@ -1,6 +1,6 @@
 {
-  "version": "16.9",
-  "notes": "1. 有头模式窗口强制 1920x1040 并最大化（修复窗口过小不能放大）\n2. 代理池取不到时日志显示每条代理的具体失败原因\n3. 代理池支持 host:port 两段格式 + socks5/http 双协议",
-  "url": "https://github.com/amazondai/amz-release/releases/download/v16.9/AMZ.exe",
+  "version": "16.10",
+  "notes": "1. 浏览器窗口跟随各台电脑的屏幕（只最大化，不再强制 1920x1040）\n2. 代理池/号池文件兼容记事本保存的 GBK 与 BOM 编码\n3. 代理取不到时日志显示每条代理的具体失败原因",
+  "url": "https://github.com/amazondai/amz-release/releases/download/v16.10/AMZ.exe",
   "file": "AMZ注册器.exe"
 }
